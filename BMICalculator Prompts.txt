@@ -1,0 +1,9 @@
+Create a BMI calculator web API using dotnet 8 with the following requirements:
+- RESTful API endpoint for BMI calculation
+- BMI category will be stored in the DB and will be fetched by the endpoint
+- Add a service layer for handling the business logic
+- BMI Controller class for HTTP handling
+- Implement JWT token authentication
+- Handle exceptions
+- Implement user input validation
+- Log the request and responses
