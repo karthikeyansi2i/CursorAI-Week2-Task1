@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DdZhkidhAPsJyT/l+bPMLDAJrPTAchUneP1EwUcmqSc=",
+  "Source": "BMICalculator.API",
+  "BasePath": "_content/BMICalculator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
